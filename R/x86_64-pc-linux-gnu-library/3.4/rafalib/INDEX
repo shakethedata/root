@@ -1,0 +1,18 @@
+as.fumeric              converts to factor and then numeric
+bartab                  bartab
+imagemat                image of a matrix
+imagesort               image with sorted rows
+install_bioc            Install or update Bioconductor and CRAN
+                        packages
+largeobj                What are the largest objects in memory?
+maplot                  Bland Altman plot aka MA plot
+mypar                   mypar
+myplclust               plclust in colour
+nullplot                nullplot
+peek                    peek at the top of a text file
+popsd                   population standard deviation
+popvar                  population variance
+sboxplot                smart boxplot
+shist                   smooth histogram
+splitit                 split it
+splot                   smart plot
