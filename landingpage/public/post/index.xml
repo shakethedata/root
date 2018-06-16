@@ -12,6 +12,46 @@
     
     
     <item>
+      <title>Comorbitity Gist</title>
+      <link>http://www.bodhi.services/post/05_comorbity_git/</link>
+      <pubDate>Sun, 06 May 2018 21:33:05 -0400</pubDate>
+      
+      <guid>http://www.bodhi.services/post/05_comorbity_git/</guid>
+      <description> </description>
+    </item>
+    
+    <item>
+      <title>Comorbitity Gist D3</title>
+      <link>http://www.bodhi.services/post/05_comor_git_d3_html/</link>
+      <pubDate>Sun, 06 May 2018 21:33:05 -0400</pubDate>
+      
+      <guid>http://www.bodhi.services/post/05_comor_git_d3_html/</guid>
+      <description>Identity graph of Adverse Event Comorbidity  
+  .links line { stroke: #999; stroke-opacity: 0.6; } .nodes circle { stroke: #fff; stroke-width: 0px; }   var graph = { &#34;nodes&#34;:[ {&#34;id&#34; : &#34;Abdominal adhesions&#34;, &#34;freq&#34;: 2, &#34;group&#34;: 1}, {&#34;id&#34; : &#34;Abdominal discomfort&#34;, &#34;freq&#34;: 5, &#34;group&#34;: 1}, {&#34;id&#34; : &#34;Abdominal pain lower&#34;, &#34;freq&#34;: 18, &#34;group&#34;: 1}, {&#34;id&#34; : &#34;Abdominal pain upper&#34;, &#34;freq&#34;: 12, &#34;group&#34;: 1}, {&#34;id&#34; : &#34;</description>
+    </item>
+    
+    <item>
+      <title>First Post: Comorbitity (to be d3&#39;ified)</title>
+      <link>http://www.bodhi.services/post/05_comorbity/</link>
+      <pubDate>Sun, 06 May 2018 21:33:05 -0400</pubDate>
+      
+      <guid>http://www.bodhi.services/post/05_comorbity/</guid>
+      <description>Comorbidity The comorbidity, or co-occurrence of Adverse Events can show trends and help determine causal relationships of Drug Related Adverse Events (Wang et al, 2009)
+Furthermore, the co-occurence patterns of Adverse events, particularly under co-administration of multiple drugs is poorly understood.
+Here we will examine the use of social networking algorithms to detect co-occuring adverse events.
+Data collection Initially we hoped to use the tweet data from previous sections for this analysis.</description>
+    </item>
+    
+    <item>
+      <title>Comorbidity</title>
+      <link>http://www.bodhi.services/post/05_comorbity_sd/</link>
+      <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
+      
+      <guid>http://www.bodhi.services/post/05_comorbity_sd/</guid>
+      <description>code{white-space: pre;}  pre:not([class]) { background-color: white; }  if (window.hljs &amp;&amp; document.readyState &amp;&amp; document.readyState === &#34;complete&#34;) { window.setTimeout(function() { hljs.initHighlighting(); }, 0); }  h1 { font-size: 34px; } h1.title { font-size: 38px; } h2 { font-size: 30px; } h3 { font-size: 24px; } h4 { font-size: 18px; } h5 { font-size: 16px; } h6 { font-size: 12px; } .table th:not([align]) { text-align: left; }  .</description>
+    </item>
+    
+    <item>
       <title>Chapter V: Quasimodo</title>
       <link>http://www.bodhi.services/post/chapter-5/</link>
       <pubDate>Thu, 13 Apr 2017 11:15:58 -0400</pubDate>
